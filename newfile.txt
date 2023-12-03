@@ -6,7 +6,7 @@ git 'merge' will combine multiple sequences of commits into one unified history.
 
 git _stash_ is a command that will temporarily stash (or shelve) any changes you've made to your current working copy so that you may come back and re-apply them later.
 Stashing is useful should you need to quickly switch branches or work on something else, but you're partially through some changes that you aren't quite ready to commit.
- 
+  
 Git is all about managing contributions between different developers. Sometimes you may have multiple developers attempting to change the same content on different branches. If a Developer attempts to change some code that a different Developer is working on, a conflict may occur.
 Merge _conflicts_ are what arise when two branches have edited code in the same part of the same file.
 
